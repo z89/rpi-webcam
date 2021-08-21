@@ -1,3 +1,6 @@
 [submodule "rpi_pantilt_scripts"]
 	path = rpi_pantilt_scripts
 	url = https://github.com/z89/rpi_pantilt_scripts
+[submodule "rpi_web_interface"]
+	path = rpi_web_interface
+	url = https://github.com/z89/rpi_web_interface
